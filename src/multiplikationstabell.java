@@ -22,7 +22,7 @@ public class multiplikationstabell {
         while(c<11)
         {
             System.out.println(c + "*" + b + "=" + b * c);
-            c = c+1;
+            c++;
         }
 
         }
