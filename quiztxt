@@ -1,0 +1,10 @@
+Kommer din kod fungera?
+nej
+Måste all skriven kod kompileras för att kunna bli avrättad?
+ja
+Vilken funktion skapar en dialogruta?
+JOptionPane.showMessageDialog
+Vilken funktion skapar en inputruta?
+JOptionPane.showInputDialog
+Kan man få job av att kunna koda JOptionpanes?
+nej
